@@ -1,6 +1,6 @@
 {
   "name": "fiten-chat",
-  "version": "1.0.6",
+  "version": "1.0.11",
   "description": "聊天",
   "main": "lib/index.js",
   "scripts": {
