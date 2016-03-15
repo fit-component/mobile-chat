@@ -1,5 +1,5 @@
 {
-  "name": "fiten-chat",
+  "name": "fit-chat",
   "version": "1.0.48",
   "description": "聊天",
   "main": "lib/index.js",

@@ -1,10 +1,10 @@
 import React from 'react'
-import Chat from 'fiten-chat'
+import Chat from 'fit-chat'
 
 export default class Demo extends React.Component {
     handleNameRender(){
         return (
-            <div>fitenRender</div>
+            <div>fitRender</div>
         )
     }
 
@@ -15,7 +15,7 @@ export default class Demo extends React.Component {
                       content="fit组件很好用"
                       portrait="http://himg.bdimg.com/sys/portrait/item/052ee28496e7bfb1e7be8ae7bebde5a4a7e7a9ba4620.jpg"/>
                 <Chat position="right"
-                      name="fiten"
+                      name="fit"
                       nameRender={this.handleNameRender.bind(this)}
                       content="没错儿"
                       portrait="http://himg.bdimg.com/sys/portrait/item/052ee28496e7bfb1e7be8ae7bebde5a4a7e7a9ba4620.jpg"/>
