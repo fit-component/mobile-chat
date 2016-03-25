@@ -1,6 +1,6 @@
 {
   "name": "fit-chat",
-  "version": "1.0.49",
+  "version": "1.0.50",
   "description": "聊天",
   "main": "lib/index.js",
   "scripts": {
