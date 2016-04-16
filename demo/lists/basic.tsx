@@ -1,5 +1,5 @@
 import * as React from 'react'
-import Chat from '../../src/chat'
+import Chat from '../../src'
 
 export default class Demo extends React.Component<any,any> {
     handleNameRender() {
