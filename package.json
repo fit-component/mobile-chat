@@ -1,6 +1,6 @@
 {
   "name": "fit-chat",
-  "version": "2.0.69",
+  "version": "3.0.0",
   "description": "聊天",
   "main": "lib/index.js",
   "scripts": {
@@ -13,9 +13,9 @@
   "author": "huangziyi01",
   "license": "ISC",
   "dependencies": {
-    "react": "^0.14.7",
-    "classnames": "^2.2.1",
+    "react": "^15.0.1",
+    "classnames": "^2.2.3",
     "lodash": "^3.10.1",
-    "fit-transmit-transparently": "^2.0.82"
+    "fit-transmit-transparently": "^3.0.0"
   }
 }
