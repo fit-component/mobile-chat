@@ -10,7 +10,7 @@ export default class Chat extends React.Component<module.PropsInterface,module.S
     public state = new module.State()
     static Position = module.Position
 
-    constructor(props:any) {
+    constructor(props: any) {
         super(props)
     }
 
@@ -35,7 +35,7 @@ export default class Chat extends React.Component<module.PropsInterface,module.S
         })
 
         return (
-            <div className={containerClass} {...others(new module.Props(), this.props)}>
+            <div {...others(new module.Props(), this.props)} className={containerClass}>
                 <img className="portrait"
                      src={this.props.portrait}/>
                 <div className={rightContentClass}>
