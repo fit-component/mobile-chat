@@ -1,6 +1,6 @@
 {
   "name": "fit-chat",
-  "version": "3.1.26",
+  "version": "3.1.28",
   "description": "聊天",
   "main": "lib/index.js",
   "scripts": {
@@ -13,10 +13,10 @@
   "author": "huangziyi01",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.0.1",
+    "react": "^0.14.0 || ^15.0.0",
     "classnames": "^2.2.3",
     "lodash": "^3.10.1",
-    "fit-transmit-transparently": "^3.1.21"
+    "fit-transmit-transparently": "^3.1.23"
   },
   "typings": "lib/index.d.ts"
 }
